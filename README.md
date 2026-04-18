@@ -10,7 +10,7 @@ A collection of 49 C++ programs covering all core **Programming Fundamentals** c
 PF-Codes/
 ├── README.md
 └── codes/
-    └── (49 .cpp files)
+    └── (49 Simple Codes {.cpp files})
 ```
 
 ---
