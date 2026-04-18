@@ -1,12 +1,21 @@
 # 💻 PF Codes — Programming Fundamentals in C++
 
-A collection of 50 C++ programs covering all core **Programming Fundamentals** concepts, from basics to data structures and mini projects.
-
-All files are named descriptively so you can find exactly what you need at a glance.
+A collection of 49 C++ programs covering all core **Programming Fundamentals** concepts, from basics to data structures and mini projects.
 
 ---
 
-## 📁 Files
+## 📁 Structure
+
+```
+PF-Codes/
+├── README.md
+└── codes/
+    └── (49 .cpp files)
+```
+
+---
+
+## 📄 Files
 
 | File | Description |
 |------|-------------|
@@ -55,7 +64,6 @@ All files are named descriptively so you can find exactly what you need at a gla
 | `String_Capitalization_app.cpp` | Capitalize string characters |
 | `Student_Info_app.cpp` | Input and display student information |
 | `Sum_Calculator_app.cpp` | Sum of numbers until 0 is entered |
-| `TOA_Lab2_app.cpp` | Theory of Automata Lab 2 |
 | `Time_Converter_app.cpp` | Convert hours to minutes and seconds |
 | `Todo_List_app.cpp` | To-do list with add/complete/delete |
 | `Todo_List_FileHandling_app.cpp` | To-do list with file save/load |
@@ -66,13 +74,13 @@ All files are named descriptively so you can find exactly what you need at a gla
 ## ⚙️ How to Run
 
 ```bash
-g++ filename.cpp -o output
+g++ codes/filename.cpp -o output
 ./output
 ```
 
 **Example:**
 ```bash
-g++ Grade_Calculator_app.cpp -o grade
+g++ codes/Grade_Calculator_app.cpp -o grade
 ./grade
 ```
 
@@ -95,6 +103,6 @@ g++ Grade_Calculator_app.cpp -o grade
 
 ## 👨‍💻 Author
 
-**Sohaib Hafeez**  
-Roll No: 24F-CS-085 | Section A2  
+**Sohaib Hafeez**
+Roll No: 24F-CS-085 | Section A2
 BS Computer Science — Dawood University of Engineering and Technology (DUET), Karachi
